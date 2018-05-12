@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5555
     wikipedia: http://fi.wikipedia.org/wiki/Pietari_P%C3%A4iv%C3%A4rinta
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43744#Pikku-Mari-ja-muita-kertomuksia
 gutenberg_issued: '2013-09-16'
 gutenberg_type: Text
 identifiers:
